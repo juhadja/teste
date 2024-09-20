@@ -1,0 +1,33 @@
+h1{
+    color: #03A688;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+body{
+    /* background-image: url("../fundo.jpg"); */
+    background-image: linear-gradient(#011F26 70%, #025E73);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+ul{
+    color: #F2668B;
+}
+a{
+    color: #026873;
+}
+h2{
+    color: #03A688;
+}
+p{
+    color: #026873;
+}
+ol{
+    color: #F2668B;
+}
+form{
+    color: #03A688;
+}
